@@ -3,6 +3,10 @@ camel-master-ftp-workaround
 
 This project provides and example camel route in blueprint that works in Fuse ESB 7.1 using the Camel Master Component
 
+This project contains a work around for a bug that is currently in the Fuse ESB Enterprise 7.1 release: 
+
+    http://fusesource.com/issues/browse/ENTESB-522
+
 Camel Router Project for Blueprint (OSGi)
 =========================================
 
